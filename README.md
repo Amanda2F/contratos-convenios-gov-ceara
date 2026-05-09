@@ -7,4 +7,4 @@ Projeto que realiza consulta e a coleta de dados automatizada de contratos e con
 - Requests (Para consumo da API)
 
 ## Como funciona:
-Percorre as páginas da API, fazendo pag1nação automática utilizando `while` e com pausas aleatórias com a biblioteca `random` para simular comportamento humano. Os dados coletados são salvos de forma incremental em um arquivo CSV.
+Percorre as páginas da API, fazendo paginação automática utilizando `while` e com pausas aleatórias com a biblioteca `random` para simular comportamento humano. Os dados coletados são salvos de forma incremental em um arquivo CSV.
